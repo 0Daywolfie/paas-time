@@ -41,7 +41,7 @@ Sent as Boka Inc on 20 Oct 2026. Pending: tiers, per-user vs flat pricing, SLAs,
 - USD licence costs against naira revenue.
 
 ## Roadmap
-1. Choose ONE target customer type.
+1. ~~Choose ONE target customer type.~~ Decided 20 Oct 2026: law firm is the core/demo; school and clinic are variants; max 30 workers per client. See `vertical-templates.md` and `decisions.md`.
 2. Build the reference setup in a lab.
 3. Draft three tiers; price after quotes arrive.
 4. Write the legal pack.
@@ -49,4 +49,4 @@ Sent as Boka Inc on 20 Oct 2026. Pending: tiers, per-user vs flat pricing, SLAs,
 6. Later: automate provisioning, then a self-serve dashboard.
 
 ## Open decisions
-Target customer type; Samba AD vs Entra ID; Nextcloud vs SharePoint; per-user vs flat pricing; business name / branding.
+Samba AD vs Entra ID; Nextcloud vs SharePoint; per-user vs flat pricing; business name / branding.

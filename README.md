@@ -21,7 +21,7 @@ Today this is a managed service. The ladder to a real PaaS:
 
 - [x] Idea, positioning and draft tiers (see `docs/project-brief.md`)
 - [x] Competitor quote requests sent (20 Oct 2026), replies pending
-- [ ] Choose ONE target customer type
+- [x] Target customer: law firm first (core/demo), school and clinic as variants; max 30 workers per client (see `docs/decisions.md`)
 - [ ] Build the reference lab
 - [ ] Price the three tiers in naira
 - [ ] Legal pack
