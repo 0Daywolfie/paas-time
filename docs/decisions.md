@@ -18,3 +18,4 @@ Record each decision here with the date and the reason, so we stop re-arguing se
 |---|---|---|
 | 2026-10-20 | Start as a productized managed service, not a self-serve PaaS | Fastest path to revenue; automation comes after the reference setup is proven |
 | 2026-10-20 | Repo is private | Will hold client-facing templates and service terms |
+| 2026-10-20 | Design for a maximum of 30 workers per client | Keeps the reference setup simple (one tenant, small footprint), support load manageable, and pricing easy to explain |
